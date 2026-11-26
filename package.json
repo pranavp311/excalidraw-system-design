@@ -1,0 +1,32 @@
+{
+  "name": "excalidraw-system-design",
+  "version": "0.1.1",
+  "description": "Agent skill that draws system design boards in Excalidraw: new products, backend parts, existing systems and technical decisions. Works with any agent that loads Agent Skills.",
+  "keywords": [
+    "agent-skills",
+    "skill",
+    "claude-code",
+    "codex",
+    "excalidraw",
+    "system-design",
+    "architecture",
+    "diagrams"
+  ],
+  "license": "UNLICENSED",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "references/",
+    "scripts/",
+    "!**/__pycache__/",
+    "assets/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavp311/excalidraw-system-design.git"
+  },
+  "homepage": "https://github.com/pranavp311/excalidraw-system-design#readme",
+  "bugs": {
+    "url": "https://github.com/pranavp311/excalidraw-system-design/issues"
+  }
+}
