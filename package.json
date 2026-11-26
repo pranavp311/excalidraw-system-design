@@ -12,7 +12,7 @@
     "architecture",
     "diagrams"
   ],
-  "license": "UNLICENSED",
+  "license": "MIT",
   "files": [
     "SKILL.md",
     "README.md",

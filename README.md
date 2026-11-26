@@ -163,3 +163,7 @@ excalidraw-system-design/
 - [Agent Skills](https://agentskills.io): the open skill format this follows, and the agents that support it.
 - [Excalidraw](https://github.com/excalidraw/excalidraw): the editor and its `.excalidraw` file format.
 - [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw): the local canvas server and CLI this skill runs.
+
+## License
+
+[MIT](LICENSE)
